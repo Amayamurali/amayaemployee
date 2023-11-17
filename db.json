@@ -1,0 +1,13 @@
+{
+  "employees": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "number": "0903709800",
+      "age": "23",
+      "gender": "male",
+      "category": "ui/ux",
+      "id": 1
+    }
+  ]
+}
